@@ -1,0 +1,14 @@
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\bin\Debug\netcoreapp3.1\Secao13.exe
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\bin\Debug\netcoreapp3.1\Secao13.deps.json
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\bin\Debug\netcoreapp3.1\Secao13.runtimeconfig.json
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\bin\Debug\netcoreapp3.1\Secao13.runtimeconfig.dev.json
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\bin\Debug\netcoreapp3.1\Secao13.dll
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\bin\Debug\netcoreapp3.1\Secao13.pdb
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\obj\Debug\netcoreapp3.1\Secao13.csproj.AssemblyReference.cache
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\obj\Debug\netcoreapp3.1\Secao13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\obj\Debug\netcoreapp3.1\Secao13.AssemblyInfoInputs.cache
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\obj\Debug\netcoreapp3.1\Secao13.AssemblyInfo.cs
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\obj\Debug\netcoreapp3.1\Secao13.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\obj\Debug\netcoreapp3.1\Secao13.dll
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\obj\Debug\netcoreapp3.1\Secao13.pdb
+C:\Users\Felipe Santos\source\repos\Secao13\Secao13\obj\Debug\netcoreapp3.1\Secao13.genruntimeconfig.cache
